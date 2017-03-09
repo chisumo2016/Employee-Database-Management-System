@@ -1,0 +1,43 @@
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee_Database.Form1.resources
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee_Database.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee Database.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\bin\Debug\Employee Database.exe
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\bin\Debug\Employee Database.pdb
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee Database.exe
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee Database.pdb
+C:\Users\user\Desktop\cc\Employee Database\Employee Database\obj\Debug\Employee Database.exe
+C:\Users\user\Desktop\cc\Employee Database\Employee Database\obj\Debug\Employee Database.pdb
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\obj\Debug\Employee Database.exe
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\obj\Debug\Employee Database.pdb
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\bin\Debug\Employee Database.exe
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\bin\Debug\Employee Database.pdb
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\obj\Debug\Employee_Database.Form1.resources
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\obj\Debug\Employee_Database.Properties.Resources.resources
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\obj\Debug\Employee Database.csproj.GenerateResource.Cache
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\bin\Debug\MyWorkers.mdf
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\bin\Debug\MyWorkers_log.ldf
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\Employee Database\bin\Debug\Employee Database.exe.config
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\bin\Debug\Employee Database.exe.config
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\obj\Debug\Employee Database.exe
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\obj\Debug\Employee Database.pdb
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\bin\Debug\MyWorkers.mdf
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\bin\Debug\MyWorkers_log.ldf
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\bin\Debug\Employee Database.exe
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\bin\Debug\Employee Database.pdb
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\obj\Debug\Employee_Database.Form1.resources
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\obj\Debug\Employee_Database.Properties.Resources.resources
+C:\Users\Alexander\Downloads\Employee Database\Employee Database\obj\Debug\Employee Database.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Employee Database\Employee Database\bin\Debug\Employee Database.exe.config
+C:\Users\user\Desktop\Employee Database\Employee Database\obj\Debug\Employee Database.exe
+C:\Users\user\Desktop\Employee Database\Employee Database\obj\Debug\Employee Database.pdb
+C:\Users\user\Desktop\Employee Database\Employee Database\bin\Debug\MyWorkers.mdf
+C:\Users\user\Desktop\Employee Database\Employee Database\bin\Debug\MyWorkers_log.ldf
+C:\Users\user\Desktop\Employee Database\Employee Database\bin\Debug\Employee Database.exe
+C:\Users\user\Desktop\Employee Database\Employee Database\bin\Debug\Employee Database.pdb
+C:\Users\user\Desktop\Employee Database\Employee Database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Employee Database\Employee Database\obj\Debug\Employee_Database.Form1.resources
+C:\Users\user\Desktop\Employee Database\Employee Database\obj\Debug\Employee_Database.Properties.Resources.resources
+C:\Users\user\Desktop\Employee Database\Employee Database\obj\Debug\Employee Database.csproj.GenerateResource.Cache

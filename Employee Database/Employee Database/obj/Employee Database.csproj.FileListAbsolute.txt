@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee_Database.Form1.resources
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee_Database.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee Database.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\bin\Debug\Employee Database.exe
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\bin\Debug\Employee Database.pdb
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee Database.exe
+C:\Users\user\Documents\Visual Studio 2005\Projects\Employee Database\Employee Database\obj\Debug\Employee Database.pdb
